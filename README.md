@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipigal&label=Profile%20views&color=0e75b6&style=flat" alt="vipigal" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipigal" alt="vipigal" /></a> </p>
+
 - 🔭 I’m currently working on **trying to learn everything at once**
 
 - 🌱 I’m currently learning about **Typescript and Express**
