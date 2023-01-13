@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vinicius Pinho</h1>
-<h3 align="center">just a guy who likes to code</h3>
+<h1 align="center">Hi 👋, I'm Vinicius Pinho </h1>
+<h3 align="center">just a guy who likes to code </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipigal&label=Profile%20views&color=0e75b6&style=flat" alt="vipigal" /> </p>
+<p align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/flag-brazil_1f1e7-1f1f7.png" alt="vipigal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipigal" alt="vipigal" /></a> </p>
+
+
 
 - 🔭 I’m currently **trying to meet and learn from people**
 
