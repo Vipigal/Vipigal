@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius Pinho </h1>
-<h3 align="center">just a guy who likes to code </h3>
 
-<p align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/flag-brazil_1f1e7-1f1f7.png" alt="vipigal" /> </p>
-
-
-
-
-- 🔭 I’m currently **trying to meet and learn from people**
+- 🔭 I’m currently **trying to learn from people around me**
 
 - 🌱 I’m currently learning about **Typescript, back-end (Express) and gitFlow**
 
@@ -14,9 +8,9 @@
 
 - 📫 How to reach me **viniciuspgalvao@hotmail.com**
 
-- ⚡ Fun fact: I really like science and drinking beer. I also have a pretty girlfriend 🤝
+- ⚡ Fun fact: I like science and drinking beer. I also have a pretty girlfriend 🤝
 
-- 💬 Soft skills: English, sharing knowlegde, quick learning, autodidact and ease to work with people
+- 💬 Soft skills: English, sharing knowlegde, quick learning, self-taught and ease to work with people
 
 
 <h3 align="left">Connect with me:</h3>
