@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinicius Pinho </h1>
 
-- 🔭 I’m currently **trying to learn from people around me**
+- 🔭 I’m currently **trying to meet people**
 
-- 🌱 I’m currently learning about **Typescript, back-end (Express) and gitFlow**
+- 🌱 I’m currently learning about **Typescript, back-end (Express), jest and gitFlow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipigal?tab=repositories](https://github.com/Vipigal?tab=repositories)
 
