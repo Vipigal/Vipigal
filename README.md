@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinicius Pinho </h1>
+<h1 align="center">Hi, I'm Vinicius Pinho </h1>
 
-- 🔭 I’m currently **trying to meet people**
-
-- 🌱 I’m currently learning about **Typescript, back-end (Express), jest and gitFlow**
+- 🌱 I’m currently learning about **Typescript, node.js and express.js, jest and gitFlow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipigal?tab=repositories](https://github.com/Vipigal?tab=repositories)
 
@@ -10,12 +8,10 @@
 
 - ⚡ Fun fact: I like science and drinking beer. I also have a pretty girlfriend 🤝
 
-- 💬 Soft skills: English, sharing knowlegde, quick learning, self-taught and ease to work with people
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-galvao-860644141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-galvao-860644141/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-galvao-860644141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-galvao-860644141/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
