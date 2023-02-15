@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **viniciuspgalvao@hotmail.com**
 
-- ⚡ Fun fact: I like science and drinking beer. I also have a pretty girlfriend 🤝
+- ⚡ Fun fact: In 2020 I've watched all seasons of the Office in a month. I also have a pretty girlfriend 🤝
 
 
 <h3 align="left">Connect with me:</h3>
