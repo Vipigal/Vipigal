@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Vinicius Pinho </h1>
 
-- 🌱 I’m currently learning about **Typescript, node.js and express.js, jest and gitFlow**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vipigal?tab=repositories](https://github.com/Vipigal?tab=repositories)
-
 - 📫 How to reach me **viniciuspgalvao@hotmail.com**
-
-- ⚡ Fun fact: In 2020 I've watched all seasons of the Office in a month. I also have a pretty girlfriend 🤝
 
 
 <h3 align="left">Connect with me:</h3>
